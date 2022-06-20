@@ -1,16 +1,18 @@
-### Hi there 👋
+<section align = "center">
+  <h1>Hi there, I'm Nicolas</h1>
+  <h3>FullStack .NET developper, CG Artist and Graphic Designer</h3>
+</section>
 
-<!--
-**nicotro/nicotro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<section align = "center">
+  <a href="https://www.linkedin.com/in/nicotro">
+      <img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="Icons/linkedin.svg">
+    </a>
+  <span>&nbsp</span>
+    <a href="http://nicotro.b3n.fr">
+      <img alt="Website" title="nicotro.b3n.fr" height="32" width="32" src="Icons/googlechrome.svg">
+    </a>
+  <span>&nbsp</span>
+    <a href="https://twitter.com/nicotro">
+      <img alt="Twitter" title="Twitter" height="32" width="32" src="Icons/twitter.svg">
+    </a>
+</section>
